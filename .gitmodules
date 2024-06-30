@@ -1,0 +1,3 @@
+[submodule "Plugins/BorshUnreal"]
+	path = Plugins/BorshUnreal
+	url = git@github.com:etodanik/BorshUnreal.git
